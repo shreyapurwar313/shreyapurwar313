@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyapurwar313
-- 👀 I’m interested in creating website that are much more simpler and interactive for the users.
-- 🌱 I’m currently learning Front-End Devlopment.
+- 👀 I’m interested in creating websites that is much more simpler and interactive for the users.
+- 🌱 I’m currently learning FullStack Development.
 - 📫 Reach me on Linkedin:linkedin.com/in/shreyapurwar
 
 <!---
